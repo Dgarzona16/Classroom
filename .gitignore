@@ -1,0 +1,5 @@
+#ignore all .exe
+*.exe
+
+#ingore test files
+test.cpp
